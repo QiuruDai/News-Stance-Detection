@@ -7,3 +7,4 @@ Linear regression and logistics regression are implemented to do the classificat
 Xgboost is used to make the non-linear classifier.
 All experimental results are compared and discussed in the report.
 
+Please run run_this.ipynb to find more details.
